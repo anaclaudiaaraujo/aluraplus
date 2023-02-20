@@ -84,6 +84,7 @@ body {
     font-weight: 700;
     font-size: 40px;
     color: var(--branco-principal);
+    margin: 0 1em 0.1em 0;
 }
 
 .descricao__texto {
